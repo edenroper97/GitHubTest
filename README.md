@@ -1,6 +1,8 @@
 # GitHubTest
 # Eden Roper
-#My initials are 'e' and 'r'
+#Writing my initials are 'e' and 'r' with initials.py 
+#using a 7x5 square and multi-line strings
+
 #Letter E
 E= """
 EEEEE
